@@ -1,0 +1,17 @@
+{
+  "short_name": "AcidGifs",
+  "name": "AcidGifs",
+  "description": "Professional framework for creating psychedelic animations in React",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff006e",
+  "background_color": "#1a1a2e",
+  "orientation": "landscape-primary"
+} 
