@@ -483,8 +483,8 @@ function App() {
       <header className="app-header">
         <div className="header-content">
           <div className="header-left">
-            <h1 className="app-title">AcidGifs</h1>
-            <p className="app-subtitle">Psychedelic Animation Framework</p>
+            <h1 className="app-title">Canvas Gifs</h1>
+            <p className="app-subtitle">unstable and power-hungry, but you can still have fun</p>
           </div>
           <div className="header-right">
             <div className="author-info">
@@ -495,8 +495,8 @@ function App() {
                 rel="noopener noreferrer"
                 className="github-link"
               >
-                <span className="github-icon">🐙</span>
-                GitHub
+                <span className="github-icon"></span>
+                Fork me on GitHub
               </a>
             </div>
           </div>
