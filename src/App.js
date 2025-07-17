@@ -490,7 +490,7 @@ function App() {
             <div className="author-info">
               <span className="author-label">Human Autonomous Agent</span>
               <a 
-                href="https://github.com/0xcrans/" 
+                href="https://github.com/0xcrans/CanvasGifs" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="github-link"
