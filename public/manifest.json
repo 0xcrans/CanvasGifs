@@ -1,7 +1,7 @@
 {
-  "short_name": "AcidGifs",
-  "name": "AcidGifs",
-  "description": "Professional framework for creating psychedelic animations in React",
+  "short_name": "Canvas Gifs",
+  "name": "Canvas Gifs",
+  "description": "canvas gif",
   "icons": [
     {
       "src": "favicon.ico",
